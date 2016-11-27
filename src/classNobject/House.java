@@ -1,7 +1,5 @@
 package classNobject;
 
-import office.OfficeSpace;
-
 public class House {
 	//variables
 	public int address = 10;

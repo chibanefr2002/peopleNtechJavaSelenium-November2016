@@ -1,10 +1,10 @@
 package office;
 
 public class OfficeSpace {
-	public 
+	public int address;
 
-	public static void main(String[] args) {
-		System.out.println("32-72 Dublin road")
+	public void officeLocation(){
+		System.out.println("Ofiice is located at 3272 Dublin road");
 
 	}
 
